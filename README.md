@@ -1,2 +1,3 @@
-# statistical_signal_quality
+# statistical signal quality
+
 Statistical framework for heart rate signal quality
